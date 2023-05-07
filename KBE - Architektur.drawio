@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T12:35:54.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="nMBxbwzFCo8ipIo4yJNa" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T12:37:16.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="sy3Hm4CPWNz6ENaS04Oi" version="21.2.9" type="github">
   <diagram name="Seite-1" id="UxKqsmDTL-n19TmxrIY1">
     <mxGraphModel dx="1434" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,8 +94,8 @@
         <mxCell id="E8mxEtLTKAiKPfOKdL3y-40" value="Event-Reaktion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="E8mxEtLTKAiKPfOKdL3y-38" vertex="1">
           <mxGeometry x="-5.62" y="80" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="E8mxEtLTKAiKPfOKdL3y-41" value="Definition von Befehlen/Makros welche durch Texteingaben ausgelöst werden" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;" parent="1" vertex="1">
-          <mxGeometry x="770" y="560" width="110" height="120" as="geometry" />
+        <mxCell id="E8mxEtLTKAiKPfOKdL3y-41" value="Definition von Befehlen/Makros welche durch Systemspezifische Trigger ausgelöst werden (Bspw. Nutzer geht online)" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=23;" parent="1" vertex="1">
+          <mxGeometry x="770" y="560" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="E8mxEtLTKAiKPfOKdL3y-42" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="E8mxEtLTKAiKPfOKdL3y-10" target="E8mxEtLTKAiKPfOKdL3y-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
